@@ -1,0 +1,22 @@
+{
+  "name": "dataplot",
+  "version": "1.0.0",
+  "description": "```mermaid\r classDiagram",
+  "main": "dataplot.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackrasz/dataplot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mackrasz/dataplot/issues"
+  },
+  "homepage": "https://github.com/mackrasz/dataplot#readme"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "datasocket_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dataplot": "file:../dataplot",
+    "datasocket": "file:../datasocket",
+    "express": "^4.17.1",
+    "socketio": "^1.0.0"
+  }
+}
