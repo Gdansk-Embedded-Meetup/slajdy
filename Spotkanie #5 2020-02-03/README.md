@@ -6,11 +6,11 @@ Agenda:
 19.00 Przerwa na pizzę
 19.20 Karol Trzciński - "Jak się nie zgubić - lokalizacja wewnątrzbudynkowa" 
 
-Nagranie prezentacji Maćka:
+Nagranie prezentacji Maćka:  
 https://www.youtube.com/watch?v=STpGkXgyiBM
 
-Nagranie prezentacji Karola:
+Nagranie prezentacji Karola:  
 https://www.youtube.com/watch?v=9zduXprBSR8
 
-Kod do prezentacji Maćka:
+Kod do prezentacji Maćka:  
 https://github.com/panicz/praktyki-embedded
