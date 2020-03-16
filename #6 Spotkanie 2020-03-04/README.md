@@ -10,4 +10,4 @@ Nagranie prezentacji Pawła:
 https://www.youtube.com/watch?v=HrBywQwTgw8
 
 Nagranie prezentacji Piotra:  
-TBD
+https://www.youtube.com/watch?v=IfTad4qcLKs  
