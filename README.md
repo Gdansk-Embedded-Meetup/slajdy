@@ -21,7 +21,7 @@ Tematy prezentacji można zgłaszać przez [FORMULARZ](https://forms.gle/n2VGF7L
 
 ## Nagrania ze spotkań
 
-Nagrania z naszych spotkań dostępne są na naszym kanale YouTube:
+Nagrania są dostępne na kanale YouTube:
 [YouTube - Gdańsk Embedded Meetup](https://www.youtube.com/@gdanskembeddedmeetup)
 
 # Lista prezentacji
